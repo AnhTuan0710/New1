@@ -1,4 +1,6 @@
 # coding machine
 ## không có gì để viết
-* thế thôi
-* đừng viết nữa
+* cách 1
+* cách 2
+> No comment
+<https://www.facebook.com/groups/525122881919873>
